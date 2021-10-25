@@ -1,55 +1,486 @@
-City_ID,City,Country,Date,Lat,Lng,Max Temp,Current Description,Humidity,Cloudiness,Wind Speed,Clear Skies,Rain
-0,Avarua,CK,2021-10-14 19:25:16,-21.2078,-159.775,77.05,light rain,73,87,2.3,10000,0.1
-1,Kapaa,US,2021-10-14 19:25:15,22.0752,-159.319,80.58,light rain,74,40,5.99,10000,0.11
-2,Gresham,US,2021-10-14 19:27:12,45.4982,-122.4315,54.84,light rain,94,90,5.75,4828,0.32
-3,Buala,SB,2021-10-14 19:22:09,-8.145,159.5921,79.93,light rain,80,26,2.13,10000,0.35
-4,Svecha,RU,2021-10-14 19:27:17,58.2785,47.5164,46.98,light rain,39,100,11.21,10000,0.21
-5,Dubna,RU,2021-10-14 19:27:19,56.7333,37.1667,43.95,light rain,96,100,2.86,6728,0.67
-6,Atuona,PF,2021-10-14 19:24:55,-9.8,-139.0333,76.98,light rain,80,18,15.28,10000,0.25
-7,Okha,RU,2021-10-14 19:27:29,53.5739,142.9478,35.19,light rain,82,100,20.92,10000,0.14
-8,Starotimoshkino,RU,2021-10-14 19:27:39,53.7191,47.5312,51.28,moderate rain,36,82,16.46,10000,1.54
-9,Wenling,CN,2021-10-14 19:27:41,28.3669,121.36,75.9,light rain,91,69,4.5,10000,0.15
-10,Hilo,US,2021-10-14 19:20:33,19.7297,-155.09,74.93,moderate rain,89,90,8.05,10000,1.02
-11,Sargur,IN,2021-10-14 19:27:43,11.9833,76.4167,69.22,moderate rain,96,100,4.76,10000,1.54
-12,Rio Verde De Mato Grosso,BR,2021-10-14 19:27:44,-18.9181,-54.8442,92.43,heavy intensity rain,44,47,13.71,10000,5.1
-13,Pangkalanbuun,ID,2021-10-14 19:27:48,-2.6833,111.6167,75.47,moderate rain,97,96,1.74,10000,1.14
-14,Portland,US,2021-10-14 19:23:03,45.5234,-122.6762,55.62,light rain,92,90,1.99,9656,0.36
-15,New Norfolk,AU,2021-10-14 19:22:10,-42.7826,147.0587,57.65,light rain,89,100,1.01,255,0.41
-16,Torbay,CA,2021-10-14 19:25:04,47.6666,-52.7314,49.28,light intensity drizzle,92,90,23.02,10000,0.31
-17,Tazovskiy,RU,2021-10-14 19:28:05,67.4667,78.7,35.35,moderate rain,97,100,16.91,4130,1.24
-18,Gizo,SB,2021-10-14 19:25:12,-8.103,156.8419,82.24,light rain,74,91,4.45,10000,0.13
-19,Alakurtti,RU,2021-10-14 19:28:06,66.9672,30.3491,36.63,light rain,85,100,9.8,10000,0.13
-20,Krasnoselkup,RU,2021-10-14 19:28:08,65.7,82.4667,35.24,light rain,95,100,20.02,10000,0.13
-21,Mattru,SL,2021-10-14 19:22:06,7.6244,-11.8332,76.71,moderate rain,92,41,5.08,10000,3.22
-22,Kruisfontein,ZA,2021-10-14 19:24:09,-34.0033,24.7314,56.88,light rain,79,100,3.6,10000,0.12
-23,Hobart,AU,2021-10-14 19:23:34,-42.8794,147.3294,58.01,moderate rain,94,75,1.99,5000,1.75
-24,Juneau,US,2021-10-14 19:28:26,58.3019,-134.4197,44.6,light rain,94,90,1.01,10000,0.64
-25,Maniitsoq,GL,2021-10-14 19:23:43,65.4167,-52.9,36.9,light rain,97,100,14.79,1680,0.18
-26,La Concordia,NI,2021-10-14 19:28:33,13.1953,-86.1667,89.11,light rain,78,100,1.39,5581,0.36
-27,Kokopo,PG,2021-10-14 19:28:36,-4.352,152.2633,77.74,light rain,84,32,2.48,10000,0.32
-28,Puerto Ayacucho,VE,2021-10-14 19:28:46,5.6639,-67.6236,91.53,light rain,55,40,3.31,10000,0.1
-29,Gambo,CF,2021-10-14 19:28:52,4.6482,22.2633,71.28,light rain,96,55,0.25,10000,0.61
-30,Mareeba,AU,2021-10-14 19:28:54,-17.0,145.4333,68.72,moderate rain,95,100,0.87,10000,1.54
-31,Kharitonovo,RU,2021-10-14 19:23:29,61.4009,47.4978,44.06,light rain,79,100,6.11,10000,0.21
-32,Floro,NO,2021-10-14 19:28:59,61.5996,5.0328,48.9,light intensity shower rain,87,40,14.97,10000,0.29
-33,Boshnyakovo,RU,2021-10-14 19:29:01,49.6333,142.1667,40.28,light rain,95,100,16.4,6543,0.21
-34,Thompson,CA,2021-10-14 19:25:01,55.7435,-97.8558,37.56,light rain,93,90,11.5,2414,0.3
-35,Wuhu,CN,2021-10-14 19:29:06,31.3366,118.3755,67.91,light rain,96,100,7.67,10000,0.18
-36,Ketchikan,US,2021-10-14 19:29:12,55.3422,-131.6461,46.24,moderate rain,91,100,11.61,8348,1.21
-37,Kemijarvi,FI,2021-10-14 19:29:19,66.7131,27.4306,36.09,light rain,96,100,16.53,71,0.8
-38,Honningsvag,NO,2021-10-14 19:29:28,70.9821,25.9704,37.15,light rain,75,0,3.44,10000,0.12
-39,Mporokoso,ZM,2021-10-14 19:29:29,-9.3727,30.125,67.96,light rain,66,78,3.94,10000,0.42
-40,Posse,BR,2021-10-14 19:29:37,-14.0931,-46.3694,78.75,light rain,59,100,4.32,10000,0.49
-41,Asau,RO,2021-10-14 19:24:33,46.4333,26.4,45.75,light rain,91,100,1.99,10000,0.21
-42,Sambava,MG,2021-10-14 19:29:55,-14.2667,50.1667,73.56,light rain,86,39,9.24,10000,0.83
-43,Dingle,PH,2021-10-14 19:25:43,10.9995,122.6711,77.0,light rain,90,100,1.86,10000,0.7
-44,Burnie,AU,2021-10-14 19:27:39,-41.0667,145.9167,54.91,moderate rain,86,100,7.65,8445,1.26
-45,Alyangula,AU,2021-10-14 19:29:58,-13.8483,136.4192,80.47,light intensity shower rain,89,40,3.44,10000,0.56
-46,Kovernino,RU,2021-10-14 19:29:59,57.1253,43.8142,44.82,light rain,78,100,12.73,10000,1.0
-47,Sitka,US,2021-10-14 19:22:52,57.0531,-135.33,42.69,moderate rain,81,90,6.91,4828,3.32
-48,Fria,GN,2021-10-14 19:29:59,10.4167,-13.5833,79.21,light rain,87,17,2.59,10000,0.36
-49,Puri,IN,2021-10-14 19:30:06,19.8,85.85,81.12,light rain,91,100,10.31,10000,0.48
-50,Kieta,PG,2021-10-14 19:30:08,-6.2167,155.6333,78.8,light rain,83,3,0.83,10000,0.5
-51,Moose Factory,CA,2021-10-14 19:23:48,51.2585,-80.6094,64.38,moderate rain,88,90,8.05,10000,2.01
-52,Tromso,NO,2021-10-14 19:30:12,69.6496,18.957,35.62,light intensity shower rain,87,75,1.01,10000,0.12
-53,Kojnare,BG,2021-10-14 19:30:26,43.35,24.1333,42.91,light rain,94,100,0.45,8965,0.24
+City_ID,City,Country,Lat,Lng,Max Temp,Current Description,Humidity,Cloudiness,Wind Speed
+0,Georgetown,MY,5.4112,100.3354,77.9,mist,94,20,4.61
+1,Kidal,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+2,Lekoni,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+3,Gogrial,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+4,Idah,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+5,Ewo,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+6,Tabou,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+7,Uwayl,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+8,Bubaque,GW,11.2833,-15.8333,82.69,overcast clouds,74,100,9.33
+9,Potiskum,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+10,Kindu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+11,Nara,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+12,Port-Gentil,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+13,Sao Filipe,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+14,Gitarama,RW,-2.0744,29.7567,63.86,overcast clouds,88,90,4.5
+15,Faya,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+16,Azare,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+17,Vila Do Maio,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+18,Robertsport,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+19,Mayumba,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+20,Kongoussi,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+21,Bolobo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+22,Dourbali,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+23,Cabedelo,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+24,Sassandra,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+25,Bonthe,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+26,Bandundu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+27,Conakry,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+28,Natal,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+29,Nouakchott,MR,18.0858,-15.9785,78.73,broken clouds,62,52,14.88
+30,Diapaga,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+31,Goderich,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+32,Moussoro,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+33,Mao,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+34,Ouallam,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+35,Yangambi,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+36,Mindelo,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+37,Lodja,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+38,Bauchi,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+39,Dabakala,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+40,Praia,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+41,Mweka,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+42,Yamoussoukro,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+43,Gamba,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+44,Pitimbu,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+45,Nioro,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+46,Touros,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+47,Harper,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+48,Bilma,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+49,Koulamoutou,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+50,Kabala,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+51,Sokoto,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+52,Waw,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+53,Soyo,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+54,Olinda,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+55,Sikasso,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+56,Abonnema,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+57,Zemio,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+58,Kousseri,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+59,Jamestown,MY,5.4112,100.3354,77.9,mist,94,20,4.61
+60,Kasongo-Lunda,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+61,Gao,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+62,Rafai,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+63,Bocaranga,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+64,Ler,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+65,Santa Maria,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+66,Ponta Do Sol,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+67,Buta,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+68,Sokolo,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+69,Kyabe,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+70,Kutum,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+71,Malumfashi,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+72,Kikwit,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+73,Maridi,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+74,Abalak,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+75,Anisoc,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+76,Cibitoke,BI,-2.8833,29.25,63.73,overcast clouds,79,96,5.06
+77,Kabare,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+78,Umm Kaddadah,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+79,Araouane,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+80,Foumban,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+81,Jalingo,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+82,Axim,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+83,Bogo,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+84,Moba,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+85,Serabu,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+86,Oussouye,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+87,Gemena,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+88,Damaturu,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+89,Yaounde,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+90,Nola,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+91,Ayame,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+92,Hadejia,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+93,Ferkessedougou,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+94,Grimari,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+95,Catio,GW,11.2833,-15.8333,82.69,overcast clouds,74,100,9.33
+96,Linguere,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+97,Lubao,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+98,Marawi,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+99,Sibiti,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+100,Kisangani,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+101,Dakar,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+102,Lokoja,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+103,Kamina,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+104,Manono,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+105,Gbarnga,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+106,Impfondo,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+107,Nguru,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+108,Binga,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+109,Takoradi,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+110,Kpandu,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+111,Matameye,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+112,Kaputa,ZM,-8.4689,29.6619,74.62,overcast clouds,65,100,5.35
+113,Libreville,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+114,Biltine,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+115,Djougou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+116,Niamey,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+117,Tshikapa,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+118,Luba,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+119,Obo,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+120,Teshie,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+121,Tingrela,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+122,Mattru,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+123,Kalemie,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+124,Akom,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+125,Tubmanburg,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+126,Oum Hadjer,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+127,Banyo,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+128,Porto Novo,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+129,Tahoua,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+130,Anloga,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+131,Seguela,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+132,Mossendjo,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+133,Uvinza,TZ,-5.1036,30.3911,72.93,overcast clouds,68,99,1.45
+134,Basoko,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+135,Riaba,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+136,Dalaba,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+137,Agadez,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+138,Luanda,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+139,Carnot,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+140,Cape Coast,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+141,Tessalit,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+142,Kollo,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+143,Ati,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+144,Tillabery,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+145,Boende,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+146,Dedougou,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+147,Kano,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+148,Po,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+149,Danane,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+150,Louga,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+151,Atar,MR,18.0858,-15.9785,78.73,broken clouds,62,52,14.88
+152,Ntoum,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+153,Sakete,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+154,Inongo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+155,Nchelenge,ZM,-8.4689,29.6619,74.62,overcast clouds,65,100,5.35
+156,Kontagora,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+157,Kinshasa,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+158,Birao,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+159,Koulikoro,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+160,Kabo,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+161,Yambio,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+162,Natitingou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+163,Bentiu,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+164,Arlit,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+165,Wum,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+166,Lusambo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+167,Omboue,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+168,Adre,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+169,Gamboma,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+170,Monrovia,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+171,Damara,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+172,Pala,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+173,Isiro,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+174,Abu Zabad,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+175,Akonolinga,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+176,Yenagoa,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+177,Jega,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+178,Lucapa,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+179,Goure,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+180,Gunjur,GM,13.2019,-16.7339,82.47,scattered clouds,89,40,0.0
+181,Mango,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+182,Mankono,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+183,Bara,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+184,Tambura,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+185,Sangueya,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+186,Mumford,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+187,Telimele,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+188,Lai,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+189,Malanje,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+190,Bongandanga,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+191,Kandi,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+192,Goundam,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+193,Salaga,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+194,Bougouni,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+195,Kabale,UG,-1.2486,29.9899,58.17,broken clouds,89,55,2.86
+196,Mitzic,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+197,Paoua,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+198,Bassar,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+199,Magaria,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+200,Bakel,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+201,Jos,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+202,Toumodi,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+203,Kongolo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+204,Tibati,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+205,Bouca,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+206,Bousso,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+207,Bria,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+208,Baoro,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+209,Aku,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+210,Labe,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+211,Mushie,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+212,Maiduguri,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+213,Baoma,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+214,Wamba,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+215,Zwedru,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+216,Koutiala,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+217,Tchaourou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+218,Eseka,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+219,Bongouanou,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+220,Sindou,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+221,Bukama,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+222,Gayeri,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+223,Am Timan,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+224,Buchanan,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+225,Yekepa,LR,6.7533,-11.3686,79.09,moderate rain,84,100,6.64
+226,Matadi,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+227,Gambo,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+228,Savelugu,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+229,Duku,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+230,Youkounkoun,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+231,Kampene,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+232,Dori,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+233,Winneba,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+234,Odienne,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+235,Ouadda,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+236,Savalou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+237,Aboisso,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+238,Tokonou,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+239,Caxito,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+240,Katsina,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+241,Boundiali,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+242,Batie,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+243,Tessaoua,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+244,Bulungu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+245,Daura,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+246,Gossas,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+247,Kaduqli,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+248,Nikki,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+249,Guelengdeng,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+250,San-Pedro,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+251,Farafenni,GM,13.2019,-16.7339,82.47,scattered clouds,89,40,0.0
+252,Adzope,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+253,Doume,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+254,Kumbo,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+255,Guider,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+256,Lere,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+257,Kaniama,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+258,Raga,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+259,Yokadouma,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+260,Sibut,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+261,Kabinda,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+262,Tombouctou,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+263,Dosso,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+264,Gandajika,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+265,Wukari,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+266,Mbanza-Ngungu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+267,Nouadhibou,MR,18.0858,-15.9785,78.73,broken clouds,62,52,14.88
+268,Kigoma,TZ,-5.1036,30.3911,72.93,overcast clouds,68,99,1.45
+269,Bouar,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+270,Luau,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+271,Afikpo,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+272,Mbini,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+273,Gorom-Gorom,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+274,Eha Amufu,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+275,Eruwa,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+276,Idanre,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+277,Batouri,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+278,Jacqueville,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+279,Acurenam,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+280,Sembe,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+281,Loandjili,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+282,Bangassou,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+283,Bata,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+284,Lisala,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+285,Hounde,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+286,Camabatela,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+287,Ribeira Brava,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+288,Macenta,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+289,Ndele,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+290,Boffa,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+291,Kerouane,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+292,Ngaoundere,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+293,Booue,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+294,Beinamar,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+295,Toulepleu,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+296,Bandiagara,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+297,Mali,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+298,Dakoro,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+299,Dahra,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+300,Yagoua,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+301,Bangolo,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+302,Aplahoue,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+303,Lambarene,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+304,Lafiagi,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+305,Banfora,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+306,Fria,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+307,Meiganga,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+308,Betare Oya,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+309,Wa,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+310,Mwene-Ditu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+311,Kumba,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+312,Mbacke,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+313,Warri,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+314,Tanout,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+315,Luwingu,ZM,-8.4689,29.6619,74.62,overcast clouds,65,100,5.35
+316,Dinguiraye,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+317,Melfi,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+318,Ilebo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+319,Okandja,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+320,Makurdi,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+321,Agnibilekrou,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+322,Massaguet,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+323,Kita,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+324,Grand-Lahou,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+325,Rumonge,BI,-2.8833,29.25,63.73,overcast clouds,79,96,5.06
+326,Makokou,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+327,Sokode,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+328,Sapouy,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+329,Yomou,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+330,Djibo,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+331,Batangafo,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+332,Touba,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+333,Dutse,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+334,Kankan,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+335,Djambala,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+336,Kolokani,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+337,Biankouma,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+338,Mbandaka,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+339,Bibiani,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+340,Cotonou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+341,Abong Mbang,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+342,Mongoumba,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+343,Velingara,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+344,Lagdo,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+345,Abidjan,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+346,Nkoteng,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+347,Bamako,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+348,Sapele,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+349,Mangai,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+350,Mbaiki,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+351,Ilorin,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+352,Cabinda,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+353,Dubreka,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+354,Zinder,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+355,Mporokoso,ZM,-8.4689,29.6619,74.62,overcast clouds,65,100,5.35
+356,Funtua,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+357,Koubia,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+358,Sangmelima,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+359,Kaura Namoda,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+360,Watsa,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+361,Filingue,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+362,Loubomo,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+363,Masingbi,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+364,Dabola,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+365,Fougamou,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+366,Lagos,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+367,Boali,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+368,Siguiri,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+369,Boda,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+370,Kasongo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+371,Segou,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+372,Numan,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+373,Kedougou,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+374,Solenzo,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+375,Bababe,MR,18.0858,-15.9785,78.73,broken clouds,62,52,14.88
+376,Ndende,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+377,Boke,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+378,Aneho,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+379,Tamale,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+380,Biu,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+381,Forecariah,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+382,Daoukro,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+383,Bitkine,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+384,Ankpa,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+385,Diffa,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+386,Massakory,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+387,Banikoara,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+388,Bokoro,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+389,Gaoual,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+390,Mimongo,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+391,Malanville,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+392,Bangui,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+393,Cyangugu,RW,-2.0744,29.7567,63.86,overcast clouds,88,90,4.5
+394,Suleja,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+395,Maghama,MR,18.0858,-15.9785,78.73,broken clouds,62,52,14.88
+396,Buba,GW,11.2833,-15.8333,82.69,overcast clouds,74,100,9.33
+397,Goma,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+398,Ouargaye,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+399,Bogande,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+400,Accra,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+401,Ebolowa,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+402,Beterou,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+403,Ndioum,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+404,Mme,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+405,Ouesso,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+406,Save,BJ,9.7085,1.666,75.02,broken clouds,78,69,3.42
+407,Tenenkou,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+408,Aketi,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+409,Techiman,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+410,Tambacounda,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+411,Monatele,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+412,Mwaro,BI,-2.8833,29.25,63.73,overcast clouds,79,96,5.06
+413,Kango,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+414,Poli,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+415,Kananga,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+416,Micomeseng,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+417,Lastoursville,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+418,Kokologo,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+419,Maroua,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+420,Foso,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+421,Bere,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+422,Bolgatanga,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+423,Tivaouane,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+424,Konongo,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+425,Yola,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+426,Igboho,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+427,Mamou,GN,9.538,-13.6773,73.36,light rain,76,97,6.67
+428,Brazzaville,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+429,Nisia Floresta,BR,-6.9811,-34.8339,79.47,overcast clouds,76,97,9.1
+430,Bumba,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+431,Sal Rei,CV,14.8961,-24.4956,78.1,scattered clouds,71,46,11.54
+432,Cocobeach,GA,-1.5843,14.2591,73.36,broken clouds,87,74,2.91
+433,Rokupr,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+434,Kaduna,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+435,Uyo,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+436,Gboko,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+437,Kabalo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+438,Saurimo,AO,-6.1349,12.3689,76.86,light rain,84,91,9.31
+439,Bol,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+440,Tsevie,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+441,Mongomo,GQ,1.8658,10.7689,70.09,broken clouds,100,67,1.99
+442,Adiake,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+443,Dapaong,US,27.9797,-82.3065,82.31,overcast clouds,86,90,0.0
+444,Abeche,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+445,Niono,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+446,Beboto,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+447,Koungheul,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+448,Kati,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+449,Edea,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+450,Uvira,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+451,Bafoulabe,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+452,Ikole,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+453,Gaoua,BF,13.3258,-1.5347,84.16,broken clouds,52,63,3.13
+454,Bosobolo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+455,Kinkala,CG,-0.8725,14.8206,73.24,broken clouds,92,59,3.42
+456,Kishi,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+457,Sarh,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+458,Bida,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+459,Diofior,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+460,Mongo,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+461,Duayaw Nkwanta,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+462,Idenao,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+463,Mayahi,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+464,Babanusah,SS,8.5332,28.1004,79.23,few clouds,61,18,3.78
+465,Nanga Eboko,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+466,Bafata,GW,11.2833,-15.8333,82.69,overcast clouds,74,100,9.33
+467,Tera,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+468,Katiola,CI,4.423,-7.3528,77.31,overcast clouds,85,91,7.18
+469,Madarounfa,NE,14.3188,2.0866,88.3,broken clouds,39,76,4.38
+470,Bunia,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+471,Oron,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+472,Dekoa,CF,5.0314,25.1361,69.57,moderate rain,96,57,3.89
+473,Butembo,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+474,Douentza,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+475,Kasangulu,CD,-2.95,25.95,69.57,light rain,100,100,1.41
+476,Benin,NG,7.1065,6.7342,76.06,few clouds,88,17,1.54
+477,Semme,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+478,Saint-Louis,SN,12.485,-16.5469,82.49,overcast clouds,83,100,4.7
+479,Koindu,SL,7.5264,-12.505,77.94,moderate rain,87,100,5.91
+480,Garoua Boulai,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
+481,Banamba,ML,18.4411,1.4078,92.39,broken clouds,19,76,0.76
+482,Ejura,GH,4.8699,-2.2405,77.63,scattered clouds,86,45,5.35
+483,Fianga,SA,18.3851,42.4509,55.92,few clouds,55,14,2.77
+484,Mora,CM,12.0769,15.0306,82.36,scattered clouds,65,29,2.3
